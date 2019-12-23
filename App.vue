@@ -14,7 +14,7 @@
 <script>
 import Level from "./components/LevelFunction.js";
 import List from "./components/List.vue";
-import LevelJSX from "./components/LevelJSX.js";
+import LevelJSX from "./components/LevelJSX.jsx";
 
 export default {
   components: {
